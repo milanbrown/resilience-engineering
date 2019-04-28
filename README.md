@@ -1,3 +1,5 @@
+Cloned from: https://github.com/lorin/resilience-engineering (thanks to Lorin Hochstein - http://lorinhochstein.org)
+
 Alias: <http://resiliencepapers.club> (thanks to [John Allspaw](https://twitter.com/allspaw)).
 
 If you're not sure what to read first, check out [Resilience engineering: Where do I start?](intro.md)
